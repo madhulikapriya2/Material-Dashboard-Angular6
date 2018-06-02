@@ -1,6 +1,14 @@
-# Angular6materialdashboard
+# Angular 6 Material Dashboard
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+In this repository, you can create and see the complete example that how to integrate Angular 6 Material Dashboard
+
+# For Complete Step By Step Article Go Through Below Link
+
+https://www.c-sharpcorner.com/article/mate/
+
+# For Other Angular 6 Article Go To My Profile
+
+https://www.c-sharpcorner.com/members/manav-pandya
 
 ## Development server
 
